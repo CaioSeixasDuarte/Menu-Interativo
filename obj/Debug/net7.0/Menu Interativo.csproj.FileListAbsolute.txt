@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\bin\Debug\net7.0\Menu Interativo.exe
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\bin\Debug\net7.0\Menu Interativo.deps.json
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\bin\Debug\net7.0\Menu Interativo.runtimeconfig.json
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\bin\Debug\net7.0\Menu Interativo.dll
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\bin\Debug\net7.0\Menu Interativo.pdb
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.AssemblyInfo.cs
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.dll
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\refint\Menu Interativo.dll
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.pdb
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\Menu Interativo.genruntimeconfig.cache
+C:\Users\HP\Documents\caio\Programação\DIO\Projetos\Menu Interativo\obj\Debug\net7.0\ref\Menu Interativo.dll
